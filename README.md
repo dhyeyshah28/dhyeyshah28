@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhyey Shah</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on **ML Projects & RoboAnalyzer Simulations**
 
 - 🌱 I’m currently learning **R.O.S, Feature Engineering**
 
 - 👯 I’m looking to collaborate on **R.O.S Learning**
 
-- 📫 How to reach me **dhyey.see18@sot.pdpu.ac.in**
+- 📫 How to reach me **dhyeyshah522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
