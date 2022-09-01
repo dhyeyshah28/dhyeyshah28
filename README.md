@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML Projects & RoboAnalyzer Simulations**
 
-- 🌱 I’m currently learning **R.O.S, Feature Engineering**
+- 🌱 I’m currently learning **R.O.S, Dynamics, Feature Engineering**
 
 - 👯 I’m looking to collaborate on **R.O.S Learning**
 
