@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhyey Shah</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🔭 I’m currently working on **ML Projects & RoboAnalyzer Simulations**
+- 🔭 I’m currently working on **Research Project on ML Based Calving Prediction & RoboAnalyzer Simulations**
 
 - 🌱 I’m currently learning **R.O.S, Dynamics, Feature Engineering**
 
